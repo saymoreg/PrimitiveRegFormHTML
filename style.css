@@ -1,0 +1,63 @@
+form {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #14c5c2;
+    border-radius: 10px;
+  }
+
+
+  /* the thing bellow apply changes to all html elements */
+  *{
+    text-align: center;
+    background-color:azure;
+    color: rgb(0, 0, 0);
+  }
+
+  .submit-button{
+    background-color: #bbb;
+    padding: .5em;
+    border-radius: 6px;
+    color: #fff;
+    font-family: 'Oswald';
+    font-size: 20px;
+    text-decoration: none;
+    border: none;
+  }
+
+  .submit-button:hover {
+    border: none;
+    background: rgb(12, 139, 124);
+    box-shadow: 0px 0px 1px #777;
+   }
+
+   .dob{
+    margin-bottom: 5px;
+    margin-top: 10px;
+   }
+
+   .dob-label{
+    margin-top: 10px;
+   }
+
+   .name{
+    margin: 10px;
+    padding: 5px;
+   }
+
+   .surname{
+    margin: 10px;
+    padding: 5px;
+   }
+
+   .email{
+    margin: 10px;
+    padding: 5px;
+   }
+
+   .password{
+    margin: 10px;
+    padding: 5px;
+   }
+
+   
